@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Tech Stack
+
+### Cross-Platform Experience
+- 2018 Zigbang with React/React-Native
+- 2019 Kakao with React/React-Native
+- 2021 GS Shop with Flutter
+
 <!--
 **nixstory/nixstory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
