@@ -3,11 +3,9 @@
 - I am also interested in react and vue, which are modern webs.
 
 ### Cross-Platform Development Experience
-- 2018 Zigbang with React/React-Native
-- 2019 Kakao with React/React-Native
-- 2021 GS Shop with Flutter
-    https://play.google.com/store/search?q=gsshop&c=apps
-    https://apps.apple.com/us/app/gsshop/id365438600
+- 2018 Zigbang Mobile App with React-Native
+- 2019 Kakao Mobile App/Web with React/React-Native
+- 2021 GSShop Mobile App with Flutter
 
 ### Open Source Project
 - http://reactspring.io
