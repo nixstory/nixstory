@@ -2,7 +2,7 @@
 - I used to be a native developer, but now I am very interested in cross-platform development.
 - I am also interested in react and vue, which are modern webs.
 
-### Representative Cross-Platform Development Experience
+### Cross-Platform Development Experience
 - 2018 Zigbang with React/React-Native
 - 2019 Kakao with React/React-Native
 - 2021 GS Shop with Flutter
