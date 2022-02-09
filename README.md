@@ -1,4 +1,4 @@
-### Hi there 👋 I am a NIX (nixstory@gmail.com)
+### Hi there 👋 I am NIX (nixstory@gmail.com)
 - I used to be a native developer, but now I am very interested in cross-platform development.
 - I am also interested in react and vue, which are modern webs.
 
