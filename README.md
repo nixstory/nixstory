@@ -6,6 +6,8 @@
 - 2018 Zigbang with React/React-Native
 - 2019 Kakao with React/React-Native
 - 2021 GS Shop with Flutter
+    https://play.google.com/store/search?q=gsshop&c=apps
+    https://apps.apple.com/us/app/gsshop/id365438600
 
 ### Open Source Project
 - http://reactspring.io
