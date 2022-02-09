@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am NIX (nixstory@gmail.com)
+- I used to be a native developer, but now I am very interested in cross-platform development.
+- I am also interested in react and vue, which are modern webs.
 
 ### Cross-Platform Experience
 - 2018 Zigbang with React/React-Native
@@ -9,7 +11,7 @@
 - http://reactspring.io
 - https://www.npmjs.com/package/react-native-aes-cipher
 - https://www.npmjs.com/package/react-native-sha-hash
-- etc...
+- https://pub.dev
 
 <!--
 **nixstory/nixstory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
