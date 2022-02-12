@@ -5,8 +5,9 @@
 ### Cross-Platform Development Experience
 - 2018 Zigbang Mobile App with React-Native
 - 2019 Kakao Realestate Mobile App/Web with React/React-Native
-- 2020 G Mobile App with React-Native
+- 2020 Shinhyup Mobile with Vue
 - 2021 GSShop Mobile App with Flutter
+- 2022 ShinhanLife Mobile with Vue
 
 ### Open Source Project
 - http://reactspring.io
