@@ -7,7 +7,7 @@
 - 2019 Kakao Realestate Mobile App/Web with React/React-Native
 - 2020 G Mobile App with React-Native
 - 2021 GSShop Mobile App with Flutter
-- 2022 Shinhan Mobile with React
+- 2022 ShinhanLife Mobile with Vue
 
 ### Open Source Project
 - http://reactspring.io
