@@ -3,7 +3,7 @@
 - I am also interested in react and vue, which are modern webs.
 
 ### Cross-Platform Development Experience
-- 2022 Flutter based Mobile App Platform
+- 2022 Flutter based Mobile Business Platform
 - 2021 GSShop Mobile App with Flutter
 - 2020 G Mobile App with React-Native
 - 2019 Kakao Realestate Mobile App/Web with React/React-Native
