@@ -1,6 +1,6 @@
 ### Hi there 👋 I am NIX (nixstory@gmail.com)
 - I used to be a native developer, but now I am very interested in cross-platform development.
-- I am also interested in react and vue, which are modern webs.
+- I am also interested in react and nextjs, which are modern webs.
 
 ### Cross-Platform Development Experience
 - 2022 Flutter based Mobile Business Platform
