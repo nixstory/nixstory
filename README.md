@@ -3,7 +3,7 @@
 - and also interested in react and nextjs, which are modern webs.
 - In my experience, the back end is mechanical fun, and the front end seems to be cute fun. Note to developers who are conflicted between frontend and backend.
 
-### Cross-Platform Development Experience
+### Cross-Platform & Modern Web Development Experience
 - 2022 Shinhan Mobile Banking App with React & Vanilla JS
 - 2022 Flutter based Mobile Business Platform
 - 2021 GSShop Mobile App with Flutter
