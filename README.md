@@ -4,7 +4,6 @@
 - In my experience, the back end is mechanical fun, and the front end seems to be cute fun. Note to developers who are conflicted between frontend and backend.
 
 ### Cross-Platform & Modern Webs Development Experience
-- 2022 Shinhan Mobile Banking App with React & Vanilla JS
 - 2022 Flutter based Mobile Business Platform
 - 2021 GSShop Mobile App with Flutter
 - 2020 G Mobile App with React-Native
