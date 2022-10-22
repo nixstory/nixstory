@@ -10,9 +10,9 @@
 - https://pub.dev
 
 ### Previous Company
-- Hancom Secure - http://www.softforum.com/
-- NDS - https://nds.nongshim.co.kr/
-- KIMM - https://www.kimm.re.kr/
+- Hancom Secure - http://www.softforum.com
+- NDS - https://nds.nongshim.co.kr
+- KIMM - https://www.kimm.re.kr
 
 <!--
 **nixstory/nixstory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
