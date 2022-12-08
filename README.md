@@ -11,6 +11,7 @@
 
 ### Previous Company
 - Hancom Secure - http://www.softforum.com
+- SecureSoft
 - NDS - https://nds.nongshim.co.kr
 - KIMM - https://www.kimm.re.kr
 
