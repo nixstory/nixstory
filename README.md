@@ -11,7 +11,7 @@
 - https://pub.dev
 
 ### Previous Company
-- Hancom Secure - https://www.hancomwith.com/
+- Hancom Secure - https://www.hancomwith.com
 - SecureSoft
 - NDS - https://nds.nongshim.co.kr
 - KIMM - https://www.kimm.re.kr
