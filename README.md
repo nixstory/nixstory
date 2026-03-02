@@ -3,12 +3,9 @@
 - and also interested in react and nextjs, which are modern webs.
 - In my experience, the back end is mechanical fun, and the front end seems to be cute fun. Note to developers who are conflicted between frontend and backend.
 
-### Open Source Project
+### Recently
 - https://pkixops.com
 - https://aliothx.net
-- https://www.npmjs.com
-- https://pub.dev
-- https://central.sonatype.com
 
 ### Previous Company
 - Hancom Secure - https://www.hancomwith.com
