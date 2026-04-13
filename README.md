@@ -4,9 +4,9 @@
 - In my experience, the back end is mechanical fun, and the front end seems to be cute fun. Note to developers who are conflicted between frontend and backend.
 
 ### Recently
+- https://noxbly.com
 - https://pkixops.com
-- https://aliothx.net
-
+ 
 ### Previous Company
 - Hancom Secure - https://www.hancomwith.com
 - SecureSoft
